@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # importando os dados, lendo o data frame
-df = pd.read_excel('data/dados_vendas_empresa_1.xlsx')
+df = pd.read_excel('dados_vendas_empresa_1.xlsx')
 df.columns = (
     df.columns.str.strip().str.lower()
     .str.replace(' ', '_').str.replace('ê', 'e')
