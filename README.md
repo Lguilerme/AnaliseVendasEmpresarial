@@ -31,8 +31,7 @@ AnaliseEmpresarial/
 ├── exercício_python.py     # Script principal de análise
 ├── requirements.txt        # Dependências do projeto
 ├── README.md               # Documentação do projeto
-└── data/                   # Pasta com os dados (não versionada)
-    └── dados_vendas_empresa_1.xlsx
+└── dados_vendas_empresa_1.xlsx # dados utilizados na análise
 ```
 
 ---
