@@ -27,11 +27,11 @@ Explorar um dataset de vendas para responder perguntas de negócio como:
 ## 📁 Estrutura do Projeto
 
 ```
-AnaliseEmpresarial/
-├── exercício_python.py     # Script principal de análise
-├── requirements.txt        # Dependências do projeto
-├── README.md               # Documentação do projeto
-└── dados_vendas_empresa_1.xlsx # dados utilizados na análise
+AnaliseVendasEmpresarial/
+├── exercício_python.py          # Script principal de análise
+├── requirements.txt             # Dependências do projeto
+├── README.md                    # Documentação do projeto
+└── dados_vendas_empresa_1.xlsx  # Dataset utilizado
 ```
 
 ---
