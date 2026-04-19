@@ -83,13 +83,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**4. Adicione o arquivo de dados**
-
-Coloque o arquivo `dados_vendas_empresa_1.xlsx` dentro da pasta `data/`:
-```
-data/dados_vendas_empresa_1.xlsx
-```
-
 **5. Execute o script**
 ```bash
 python "exercício_python.py"
